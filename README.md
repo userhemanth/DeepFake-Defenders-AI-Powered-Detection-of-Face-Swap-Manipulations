@@ -1,2 +1,2 @@
-# DeepFake-Defenders-AI-Powered-Detection-of-Face-Swap-Manipulations
-DeepFake Defenders is an AI-based system designed to detect face-swap deepfakes in both images and videos. It identifies whether media content is Real or Fake by analyzing visual artifacts, facial inconsistencies, and temporal patterns introduced during deepfake generation.
+# DeepFake-Defenders
+DeepFake Defenders is a deep learning-based tool to detect deepfake images and videos. It uses Xception (TensorFlow) for image detection and a hybrid EfficientViT + ViT model (PyTorch) for videos. Trained on FaceForensics++ and HFFD, it helps identify synthetic media with high accuracy.
